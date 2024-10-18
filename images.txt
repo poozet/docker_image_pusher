@@ -6,7 +6,7 @@ tdengine/tdengine:3.0.3.0
 redis:6.0.16
 mysql:8.0.33
 mysql:5.7
-xaswr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
+eipwork/kuboard:v3
 cassandra:4.1
 gogs/gogs:latest
 minio/minio:latest
