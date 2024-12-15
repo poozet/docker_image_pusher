@@ -12,6 +12,7 @@ eipwork/kuboard:v3
 cassandra:4.1
 gogs/gogs:latest
 minio/minio:latest
+minio/mc:latest
 emqx/emqx:latest
 influxdb:latest
 redis:latest
