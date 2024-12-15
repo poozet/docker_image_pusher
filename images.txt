@@ -1,3 +1,4 @@
+opengauss/opengauss:5.0.0
 node:18.20.4
 node:16.15.0
 nginx
