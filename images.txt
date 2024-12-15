@@ -8,6 +8,7 @@ tdengine/tdengine:3.0.3.0
 redis:6.0.16
 mysql:8.0.33
 mysql:5.7
+mysql:5.6
 eipwork/kuboard:v3
 cassandra:4.1
 gogs/gogs:latest
@@ -16,8 +17,6 @@ minio/mc:latest
 emqx/emqx:latest
 influxdb:latest
 redis:latest
-mysql:5.6
-mysql:5.7
 mongo:latest
 registry.cn-shenzhen.aliyuncs.com/jetlinks/jetlinks-ui-antd:1.10.0
 nacos/nacos-server:1.4.2
