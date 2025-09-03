@@ -41,8 +41,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mintplexlabs/anythingllm
 #postgres:latest
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.4-local
-ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
+#langgenius/dify-sandbox:0.2.10
+#langgenius/dify-plugin-daemon:0.0.4-local
+#ubuntu/squid:latest
+#semitechnologies/weaviate:1.19.0
+tomcat:9-jre8-alpine
 
