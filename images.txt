@@ -45,10 +45,11 @@
 #langgenius/dify-plugin-daemon:0.0.4-local
 #ubuntu/squid:latest
 #semitechnologies/weaviate:1.19.0
-##tomcat:9-jre8-alpine
-tomcat:9.0.108-jre8
-ubuntu：latest
-alpine:latest
-centos:latest
+#tomcat:9-jre8-alpine
+#tomcat:9.0.108-jre8
+ubuntu:24.04
+ubuntu:22.04
+ubuntu:20.04
+centos:7
 
 
