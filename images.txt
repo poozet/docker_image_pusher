@@ -47,9 +47,10 @@
 #semitechnologies/weaviate:1.19.0
 #tomcat:9-jre8-alpine
 #tomcat:9.0.108-jre8
-ubuntu:24.04
-ubuntu:22.04
-ubuntu:20.04
-centos:7
+#ubuntu:24.04
+#ubuntu:22.04
+#ubuntu:20.04
+#centos:7
+kartoza/geoserver:2.27.2
 
 
